@@ -11,7 +11,7 @@ Obsahuje zatím:
 
 ![Pes](https://1gr.cz/fotky/lidovky/19/122/r7/ELE800579_pes.jpg)
 
-[Odkaz](file:///C:/Users/ondsime018/Documents/2021l4web-repository-skills-OndrejSimek/info.html)
+[Odkaz](https://github.com/pslib-cz/2021l4web-repository-skills-OndrejSimek/blob/master/info.html)
 
 | **Změna**     | **Popis**       |
 |-----------|-------------|
